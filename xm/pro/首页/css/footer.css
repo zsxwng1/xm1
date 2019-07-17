@@ -1,0 +1,66 @@
+.container .footer{
+  width: 1300px;
+  height: 249px;
+  background-color: #000000;
+text-align: center;
+  position: relative;
+}
+.container .nav_ft li a{
+  color: #8d8d8d;
+  background-color: #000000;
+  font-size: 400;
+  position: relative;
+}
+.container .nav_ft li{
+  width: 121px;
+  height: 59px;
+  background-color: #000000;
+}
+.my_ft_img{
+  position:relative;
+ float: left;
+margin-left: 394px;
+ text-align: center;
+ width: 218px;
+ height:128px ;
+}
+.my_fr_img{
+  position:relative;
+  float: right;
+ margin-left: 2px;
+  text-align: center;
+  width: 110px;
+  height:110px ;
+}
+.buttom_zi h4{
+  display: block;
+ color: white;
+ width: 267px;
+ height:100px;
+ float:right;
+margin-left:756px;
+ position: absolute;
+}
+.buttom_zi p{
+  display: block;
+  color: white;
+  width: 266px;
+  height:17px;
+  float:right;
+ margin-left:756px;
+ margin-top: 30px;
+  position: absolute;
+  font-size: 8px;
+}
+.buttom_zi span{
+  display: block;
+  color: #067a60;
+  width: 266px;
+  height:17px;
+  float:right;
+ margin-left:756px;
+ margin-top: 30px;
+  position: absolute;
+  font-size: 700;
+  text-align: center;
+}
