@@ -28,8 +28,8 @@ float:right;
 .my_img{
     width:513px;
     height:40px;
-    position: absolute;
-  left: 15px;
+    position:absolute;
+ margin-left: 25px;
   margin-top: 15px;
  
 
